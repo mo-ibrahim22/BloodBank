@@ -1,7 +1,7 @@
-#BloodBank
+#BloodBank:
 BloodBank is a C++ project that provides a user-friendly interface for individuals to register as blood donors or recipients. The project incorporates functionalities such as user registration, login, blood donation, account management, and blood type searching.
 
-#Features
+#Features:
 Users can register as donors or recipients and provide their personal information, including name, contact details, and blood type.
 Donors can donate blood by specifying details such as blood type, donation date, and location.
 Users can update their account information, including contact details, address, and health status.
