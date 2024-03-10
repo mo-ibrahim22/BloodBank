@@ -10,3 +10,7 @@ Recipients can search for available blood types based on their requirements.
 The project utilizes efficient data structures and algorithms to manage user information and blood type availability.
 Security measures are implemented to protect user data and prevent unauthorized access.
 The BloodBank project aims to bridge the gap between blood donors and recipients, facilitating a seamless process for blood donation and ensuring timely assistance for those in need.
+
+
+https://github.com/mo-ibrahim22/CinemaTime/assets/125498637/9404cf6d-2d12-43aa-be77-181ed689944e
+
